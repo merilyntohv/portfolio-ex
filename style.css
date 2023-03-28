@@ -317,7 +317,6 @@ h2 {
         overflow-x:scroll;
         display: flex;
         align-items: center;
-        width: 100%;
     }
 
     .profilepictures { 
@@ -347,6 +346,9 @@ h2 {
     img {
         width: auto;
     }
-
+ 
+    .img2{
+        width: 100%;
+    }
 
 }
